@@ -6,6 +6,10 @@ public class e {
 		System.out.println("test1");
 	}
 	
+	public void t2() {
+		System.out.println("test2");
+	}
+	
 	
 	
 }
