@@ -10,6 +10,10 @@ public class e {
 		System.out.println("test2");
 	}
 	
+	public void t3() {
+		System.out.println("test3");
+	}
+	
 	
 	
 }
